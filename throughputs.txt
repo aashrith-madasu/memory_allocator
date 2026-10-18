@@ -1,0 +1,3 @@
+Intel(R)Xeon(R)CPUE5-1620v3@3.50GHz:regular:20092
+Intel(R)Xeon(R)Silver4210RCPU@2.40GHz:regular:18835
+Intel(R)Core(TM)i9-10900XCPU@3.70GHz:regular:27986
